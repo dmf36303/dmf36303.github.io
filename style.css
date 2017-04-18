@@ -1,0 +1,22 @@
+h1{
+text-align:center;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+h2.under{
+text-decoration:underline;
+}
+
+p.center {
+text-align:center;
+} 
+
+li.center {
+text-align:center;
+}
+
